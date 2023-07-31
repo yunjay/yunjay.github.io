@@ -2,7 +2,7 @@
 
 ## Resources
 
-### Study Notes
+### [Study Notes](markdowns/studyNotes.md)
 
 # Yunjay Kim
 
