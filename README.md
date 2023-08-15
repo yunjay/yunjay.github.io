@@ -13,14 +13,15 @@
 - SeoulTech Computer Graphics & Imaging Lab undergrad research student 2022 - 2023
 
 ## :seedling: Interests
-- Graphics APIs
-- Rendering
-- Realtime Simulations  
+- Realtime Rendering
+- Realtime Simulations
+- GPGPU  
 - Mathematics  
 - [Painting](markdowns/paintingsByYJ.md)   
 
 ## :mailbox_with_mail: Contact Me
 Email : nessie@clo3d.com
+yunjaysus@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/yun-jay-kim-546500149/
 
